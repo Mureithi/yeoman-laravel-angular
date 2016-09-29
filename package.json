@@ -7,7 +7,7 @@
     {
       "name": "Rufus Mbugua",
       "email": "mbuguarufus@gmail.com",
-      "url":"blog.rufusmbugua.com"
+      "url": "blog.rufusmbugua.com"
     }
   ],
   "repository": {
@@ -19,7 +19,7 @@
   },
   "apidoc": {
     "title": "Kescrow Docs",
-    "url" : ""
+    "url": ""
   },
   "keywords": [
     "yeoman-generator",
@@ -61,6 +61,7 @@
     "grunt-apidoc": "^0.10.1",
     "grunt-autoprefixer": "^3.0.3",
     "ioredis": "^1.15.0",
-    "socket.io": "^1.4.5"
+    "socket.io": "^1.4.5",
+    "yeoman-generator": "^0.24.1"
   }
 }
